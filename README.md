@@ -1,4 +1,4 @@
-## EXNO-3-DS
+EX:03
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -31,55 +31,16 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-<br>
-<img width="1310" height="1232" alt="Screenshot 2025-09-15 084238" src="https://github.com/user-attachments/assets/b204821e-9334-4017-99d2-92d4e18273a2" />
-<br>
- 
-<img width="1313" height="1167" alt="Screenshot 2025-09-15 084257" src="https://github.com/user-attachments/assets/f792408d-1d66-4225-a0f4-fbda46367683" />
-<br>
+![ds 3_page-0006](https://github.com/user-attachments/assets/f85f016b-651c-45ab-9f8a-c73effb5dc31)
+![ds 3_page-0005](https://github.com/user-attachments/assets/155c9235-4dfe-4f57-af15-ce4646e75661)
+![ds 3_page-0004](https://github.com/user-attachments/assets/c3b01839-b748-42f5-a8f0-2de46b871fdd)
+![ds 3_page-0003](https://github.com/user-attachments/assets/a9055e05-b7f6-4def-baca-f0c6a12b11bd)
+![ds 3_page-0002](https://github.com/user-attachments/assets/07c4baaa-2e78-410f-a8f7-74d22f23c060)
+![ds 3_page-0001](https://github.com/user-attachments/assets/dcb5f12d-c88d-4a2b-a3b8-13e650967b91)
+![ds 3_page-0007](https://github.com/user-attachments/assets/0e96c737-9f30-4a88-b48b-8f4b264f5c3d)
 
-<img width="1317" height="998" alt="Screenshot 2025-09-15 084315" src="https://github.com/user-attachments/assets/ec1a6ca9-2192-432b-947d-3ec20e0f1682" />
-<br>
+#RESULT:
+Output is verified
 
-<img width="1311" height="1267" alt="Screenshot 2025-09-15 084334" src="https://github.com/user-attachments/assets/717117e3-f681-4ea4-8a8c-917080303d07" />
-<br>
 
-<img width="1306" height="1098" alt="Screenshot 2025-09-15 084347" src="https://github.com/user-attachments/assets/f7fd7e0b-1df4-47e7-bd0a-abd9159c7c17" />
-<br>
-
-<img width="1310" height="1065" alt="Screenshot 2025-09-15 084400" src="https://github.com/user-attachments/assets/9c660fc7-93aa-402a-b5fa-00ee8873570d" />
-<br>
-
-<img width="1322" height="1266" alt="Screenshot 2025-09-15 084415" src="https://github.com/user-attachments/assets/ea2e5dbe-ab1d-4e31-bc67-9e464af9bc25" />
-<br>
-
-<img width="1314" height="1083" alt="Screenshot 2025-09-15 084432" src="https://github.com/user-attachments/assets/f098fef7-bb79-4c3c-9aec-ca89576ffb03" />
-<br>
-
-<img width="1308" height="1082" alt="Screenshot 2025-09-15 084444" src="https://github.com/user-attachments/assets/99092e7f-c8c0-4749-81df-3eab39929324" />
-<br>
-
-<img width="1304" height="793" alt="Screenshot 2025-09-15 084456" src="https://github.com/user-attachments/assets/4309dbda-5215-4920-8af8-d9166bb8d5cd" />
-<br>
-
-<img width="1316" height="1329" alt="Screenshot 2025-09-15 084511" src="https://github.com/user-attachments/assets/d56c8b98-f10a-42b3-adce-4a1910feb124" />
-<br>
-
-<img width="1308" height="1136" alt="Screenshot 2025-09-15 084524" src="https://github.com/user-attachments/assets/1d8ab38a-6b13-4353-86c9-c4dfe17d9d83" />
-<br>
-
-<img width="1317" height="1261" alt="Screenshot 2025-09-15 084538" src="https://github.com/user-attachments/assets/fff279f7-0cbd-47fb-8d88-700cb8a0fb97" />
-<br>
-
-<img width="1309" height="1113" alt="Screenshot 2025-09-15 084548" src="https://github.com/user-attachments/assets/dc707e41-0865-4c76-88cb-c324e7665833" />
-<br>
-
-<img width="1317" height="1092" alt="Screenshot 2025-09-15 084604" src="https://github.com/user-attachments/assets/a353340d-3056-4e07-a65d-78f609c41731" />
-<br>
-
-<img width="1313" height="1181" alt="Screenshot 2025-09-15 084617" src="https://github.com/user-attachments/assets/7426bd94-9bc2-4fbd-8427-e9a32dce834d" />
-<br>
-
-# RESULT:
-       Thus we have successfully performed Feature Encoding and Transformation process and saved the data to a file.
        
